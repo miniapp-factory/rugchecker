@@ -1,0 +1,98 @@
+
+# 2025-11-20 16:06:22.197555
++Code the following app
++```
++App Name: RugChecker
++
++Description / Functions (paste into Mini App Factory):
++
++RugChecker is a security-focused mini app that analyzes Base network tokens and identifies potential rug-pull indicators. The app helps users understand smart contract risks before buying or interacting with a token.
++
++Core Features:
++ 1. Smart Contract Risk Scan
++ • Analyze any token contract on Base.
++ • Detect common rug-pull signals such as:
++• Ownership not renounced
++• High admin privileges
++• Trading restrictions
++• Blacklist / whitelist functions
++• Ability to mint unlimited tokens
++• Hidden honeypot mechanics
++ 2. Risk Score (0–100)
++ • Provide a simple score showing how risky the token is.
++ • 0 = extremely dangerous, 100 = very safe
++ • Categorize results: Safe / Caution / High Risk.
++ 3. Liquidity Analysis
++ • Check whether liquidity is locked.
++ • Show LP lock duration if available.
++ • Flag tokens with removable or zero liquidity.
++ 4. Developer Wallet Check
++ • Detect if a developer wallet holds a large percentage of supply.
++ • Highlight wallets that could dump on users.
++ 5. User-Friendly Verdict
++ • Short verdict:
++• “Safe to explore”
++• “Proceed with caution”
++• “Likely rug — avoid”
++ • Provide a simple list of reasons for the verdict.
++ 6. Quick Query Mode
++ • Users can input a token address to instantly scan it.
++ • Example: “Scan this contract: 0x123…”
++
++Purpose:
++RugChecker helps users avoid scams by providing transparent, quick, and simple smart contract analysis on Base.
++
++Style:
++Clear, direct, safety-first.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 16:06:22.198963
++Code the following app
++```
++App Name: RugChecker
++
++Description / Functions (paste into Mini App Factory):
++
++RugChecker is a security-focused mini app that analyzes Base network tokens and identifies potential rug-pull indicators. The app helps users understand smart contract risks before buying or interacting with a token.
++
++Core Features:
++ 1. Smart Contract Risk Scan
++ • Analyze any token contract on Base.
++ • Detect common rug-pull signals such as:
++• Ownership not renounced
++• High admin privileges
++• Trading restrictions
++• Blacklist / whitelist functions
++• Ability to mint unlimited tokens
++• Hidden honeypot mechanics
++ 2. Risk Score (0–100)
++ • Provide a simple score showing how risky the token is.
++ • 0 = extremely dangerous, 100 = very safe
++ • Categorize results: Safe / Caution / High Risk.
++ 3. Liquidity Analysis
++ • Check whether liquidity is locked.
++ • Show LP lock duration if available.
++ • Flag tokens with removable or zero liquidity.
++ 4. Developer Wallet Check
++ • Detect if a developer wallet holds a large percentage of supply.
++ • Highlight wallets that could dump on users.
++ 5. User-Friendly Verdict
++ • Short verdict:
++• “Safe to explore”
++• “Proceed with caution”
++• “Likely rug — avoid”
++ • Provide a simple list of reasons for the verdict.
++ 6. Quick Query Mode
++ • Users can input a token address to instantly scan it.
++ • Example: “Scan this contract: 0x123…”
++
++Purpose:
++RugChecker helps users avoid scams by providing transparent, quick, and simple smart contract analysis on Base.
++
++Style:
++Clear, direct, safety-first.
++```
++
++Generate an app logo and update the app metadata title and description.
